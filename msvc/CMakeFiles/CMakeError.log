@@ -1,0 +1,302 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_74ada.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_74ada.dir\Debug\\" /Fd"cmTC_74ada.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_74ada.vcxproj]
+
+
+Determining if the include file arpa/inet.h exists failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_91db0.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_91db0.dir\Debug\\" /Fd"cmTC_91db0.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'arpa/inet.h': No such file or directory [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_91db0.vcxproj]
+
+
+Determining if the include file netdb.h exists failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_b2804.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b2804.dir\Debug\\" /Fd"cmTC_b2804.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'netdb.h': No such file or directory [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_b2804.vcxproj]
+
+
+Determining if the include file netinet/in.h exists failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_7ce45.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7ce45.dir\Debug\\" /Fd"cmTC_7ce45.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'netinet/in.h': No such file or directory [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_7ce45.vcxproj]
+
+
+Determining if the include file pwd.h exists failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_6aa4e.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6aa4e.dir\Debug\\" /Fd"cmTC_6aa4e.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pwd.h': No such file or directory [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_6aa4e.vcxproj]
+
+
+Determining if the include file sys/socket.h exists failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_35b50.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_35b50.dir\Debug\\" /Fd"cmTC_35b50.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'sys/socket.h': No such file or directory [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_35b50.vcxproj]
+
+
+Determining if the include file sys/time.h exists failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_9569d.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9569d.dir\Debug\\" /Fd"cmTC_9569d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'sys/time.h': No such file or directory [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_9569d.vcxproj]
+
+
+Determining if the include file syslog.h exists failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_65097.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_65097.dir\Debug\\" /Fd"cmTC_65097.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'syslog.h': No such file or directory [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_65097.vcxproj]
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_39657.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_39657.dir\Debug\\" /Fd"cmTC_39657.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_39657.vcxproj]
+
+
+Determining size of ssize_t failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_47c29.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_47c29.dir\Debug\\" /Fd"cmTC_47c29.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c"
+  SIZEOF_SSIZE_T.c
+  
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(25): error C2065: 'ssize_t': undeclared identifier [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_47c29.vcxproj]
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(26): error C2065: 'ssize_t': undeclared identifier [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_47c29.vcxproj]
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(27): error C2065: 'ssize_t': undeclared identifier [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_47c29.vcxproj]
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(28): error C2065: 'ssize_t': undeclared identifier [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_47c29.vcxproj]
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(29): error C2065: 'ssize_t': undeclared identifier [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_47c29.vcxproj]
+
+C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CheckTypeSize/SIZEOF_SSIZE_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(ssize_t))
+char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Performing C SOURCE FILE Test HAVE_STRUCT_TM_TM_GMTOFF failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_013ec.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D HAVE_STRUCT_TM_TM_GMTOFF /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_013ec.dir\Debug\\" /Fd"cmTC_013ec.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\src.c"
+  src.c
+  
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\src.c(6): error C2039: 'tm_gmtoff': is not a member of 'tm' [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_013ec.vcxproj]
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt\corecrt_wtime.h(22): note: see declaration of 'tm'
+
+Source file was:
+
+#include <time.h>
+
+int main()
+{
+   (void)sizeof(((struct tm *)0)->tm_gmtoff);
+   return 0;
+}
+
+Determining if the function accept4 exists failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_61217.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=accept4 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_61217.dir\Debug\\" /Fd"cmTC_61217.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.14\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+  
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _accept4 referenced in function _main [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_61217.vcxproj]
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_61217.exe : fatal error LNK1120: 1 unresolved externals [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_61217.vcxproj]
+
+
+Determining if the function mkostemp exists failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_10941.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=mkostemp /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_10941.dir\Debug\\" /Fd"cmTC_10941.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.14\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+  
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _mkostemp referenced in function _main [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_10941.vcxproj]
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_10941.exe : fatal error LNK1120: 1 unresolved externals [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_10941.vcxproj]
+
+
+Determining if the initgroups exist failed with the following output:
+Change Dir: C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe cmTC_6116e.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=15.0 /v:m 
+Microsoft (R) Build Engine version 15.9.21+g9802d43bc3 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27030.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6116e.dir\Debug\\" /Fd"cmTC_6116e.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+  CheckSymbolExists.c
+  
+C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: Cannot open include file: 'grp.h': No such file or directory [C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\CMakeTmp\cmTC_6116e.vcxproj]
+
+File C:/Development/op3d_active/nghttp2-1.39.1/msvc/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <grp.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef initgroups
+  return ((int*)(&initgroups))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

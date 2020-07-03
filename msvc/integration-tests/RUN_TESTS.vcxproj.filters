@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\op3d_active\nghttp2-1.39.1\msvc\CMakeFiles\04b303ce0ed7de07f84ec60f20b3c7d7\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FAE32943-2BCD-384C-82EF-7037092A159B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

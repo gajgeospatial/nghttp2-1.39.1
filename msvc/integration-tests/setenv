@@ -1,0 +1,12 @@
+#!/bin/sh -e
+
+libdir="C:/Development/op3d_active/nghttp2-1.39.1/msvc/lib"
+if [ -d "$libdir/.libs" ]; then
+    libdir="$libdir/.libs"
+fi
+
+export CGO_CFLAGS="-IC:/Development/op3d_active/nghttp2-1.39.1/lib/includes -IC:/Development/op3d_active/nghttp2-1.39.1/msvc/lib/includes"
+export CGO_LDFLAGS="-L$libdir"
+export LD_LIBRARY_PATH="$libdir"
+export GODEBUG=cgocheck=0
+"$@"

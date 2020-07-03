@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Development/op3d_active/nghttp2-1.39.1/contrib/CMakeLists.txt
+C:/Development/op3d_active/nghttp2-1.39.1/contrib/nghttpx-init.in
+C:/Development/op3d_active/nghttp2-1.39.1/contrib/nghttpx-upstart.conf.in
+C:/Development/op3d_active/nghttp2-1.39.1/contrib/nghttpx.service.in
