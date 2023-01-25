@@ -1,1 +1,0 @@
-This project should be installed as NGHTTP2_DIR with ProjectTool.
